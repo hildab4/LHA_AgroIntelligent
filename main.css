@@ -1,0 +1,60 @@
+footer {
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(187, 223, 216);
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.active {
+    color: white;
+  }
+
+.color-m {
+    color: light;
+}
+
+.scroll::-webkit-scrollbar {
+    display: none;
+}
+
+.align-center {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    margin: auto;
+    margin-left: 43%;
+}
+
+.productos {
+    width: 130%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.marco {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.marcolados {
+    padding-top: 70px;
+    padding-bottom: 40px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+.marcoabajo {
+    padding-bottom: 30px;
+}
+
+.card1 {
+    margin-left: 220px;
+    margin-right: 220px;
+}
+
+.carousel-caption {
+    top: 150px;
+}
